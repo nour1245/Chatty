@@ -1,16 +1,8 @@
 # chatty_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## screenShots
+![screen1](https://live.staticflickr.com/65535/52752265424_9fa1371cd6_k.jpg)
+![screen2](https://live.staticflickr.com/65535/52752436845_736d53e782_k.jpg)
+![screen3](https://live.staticflickr.com/65535/52752520668_4c7635dcac_k.jpg)
+![screen4](https://live.staticflickr.com/65535/52752520608_5fc6609d67_k.jpg)
+![screen5](https://live.staticflickr.com/65535/52752265224_02f97003a9_k.jpg)
